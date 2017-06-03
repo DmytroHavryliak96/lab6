@@ -1,0 +1,16 @@
+D:\Навчання\третій курс\другий семестр\Дискретні структури\Лабораторна 6\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Навчання\третій курс\другий семестр\Дискретні структури\Лабораторна 6\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Навчання\третій курс\другий семестр\Дискретні структури\Лабораторна 6\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Навчання\третій курс\другий семестр\Дискретні структури\Лабораторна 6\ConsoleApplication1\ConsoleApplication1\bin\Debug\BooleanClassLibrary.dll
+D:\Навчання\третій курс\другий семестр\Дискретні структури\Лабораторна 6\ConsoleApplication1\ConsoleApplication1\bin\Debug\BooleanClassLibrary.pdb
+D:\Навчання\третій курс\другий семестр\Дискретні структури\Лабораторна 6\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Навчання\третій курс\другий семестр\Дискретні структури\Лабораторна 6\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Навчання\третій курс\другий семестр\Дискретні структури\Лабораторна 6\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Навчання\третій курс\другий семестр\Дискретні структури\Лабораторна 6\lab6\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Навчання\третій курс\другий семестр\Дискретні структури\Лабораторна 6\lab6\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Навчання\третій курс\другий семестр\Дискретні структури\Лабораторна 6\lab6\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Навчання\третій курс\другий семестр\Дискретні структури\Лабораторна 6\lab6\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Навчання\третій курс\другий семестр\Дискретні структури\Лабораторна 6\lab6\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Навчання\третій курс\другий семестр\Дискретні структури\Лабораторна 6\lab6\ConsoleApplication1\bin\Debug\BooleanClassLibrary.dll
+D:\Навчання\третій курс\другий семестр\Дискретні структури\Лабораторна 6\lab6\ConsoleApplication1\bin\Debug\BooleanClassLibrary.pdb
+D:\Навчання\третій курс\другий семестр\Дискретні структури\Лабораторна 6\lab6\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
